@@ -1,0 +1,18 @@
+0.0                ! t0   # instante inicial(s)
+3.2                ! tf   # instante final(s)
+0.78539816         ! o10  # ângulo theta1 inicial(rad)
+0.0                ! w10  # vel. angular inicial omega1(rad/s)
+0.78539816         ! o20  # ângulo theta2 inicial(rad)
+0.0                ! w20  # vel. angular inicial omega2(rad/s)
+1.0                ! l1   # comp. haste1(m)
+1.0                ! l2   # comp. haste2(m)
+1.0                ! m1   # massa do primeiro pêndulo(kg)
+1.0                ! m2   # massa do segundo pêndulo(kg)
+9.78032700         ! g    # aceleração da gravidade (m/s²)
+10000              ! n    # número de iterações do método rk4
+2                  ! gl   # graus de liberdade do sistema
+Pend_dup_simples   ! nome # nome base que será usado para gerar o arquivo de saída
+1                  ! ut   # adimensionalisação dos tempos
+1                  ! um   # adimensionalisação das massas
+1                  ! uc   # adimensionalisação dos comprimentos
+

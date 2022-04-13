@@ -1,0 +1,1 @@
+Projeto final do curso de Física computacional. Desenvolvido em Fortran 90 usando o Jupyter. Ainda é necessaŕio a implementação de um método de resolução mais eficiente para equações caóticas, como é o caso de algumas equações no projeto.
